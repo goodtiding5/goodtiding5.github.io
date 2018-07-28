@@ -1,0 +1,5 @@
+pelican
+markdown
+fabric3
+beautifulsoup4
+ghp-import
